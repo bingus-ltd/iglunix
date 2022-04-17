@@ -1,5 +1,5 @@
 # [Iglunix](https://iglunix.xyz/)
-Unix like software distribution with no GNU components
+Unix like software distribution with GNU components
 
 All build scripts are 0BSD Licensed.
 

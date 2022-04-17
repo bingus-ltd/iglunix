@@ -6,13 +6,7 @@ All build scripts are 0BSD Licensed.
 To create an ISO from a non-iglunix OS please see https://github.com/iglunix/iglunix-autobuild
 
 ## Is this GNU/Linux
-No, GNU currently contributes roughly 10 MiB of code in the base system whilst,
-LLVM and Linux both contribute approximately 1 GiB each. Instead we suggest that
-one should refer to Igluinx running on the Linux kernel as LLVM/Musl/Linux.
-LLVM and Linux because they are the two largest packages and make up the
-majority of the base system, and Musl to be explicit about the C library,
-target triple and to differentiate it from any system using LLVM's libc
-(which will may very well likely use in the future).
+yeah
 
 ## Discord
 Join us at [link](https://discord.gg/NKB9qD2bMx)

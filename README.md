@@ -1,9 +1,10 @@
 # [Iglunix for servers](https://stallman.org/)
+
+A vastly improved version of Iglunix optimised for servers.
+
 Unix like software distribution with GNU components
 
 All build scripts are 0BSD Licensed.
-
-To create an ISO from a non-iglunix OS please see https://github.com/iglunix/iglunix-autobuild
 
 ## Is this GNU/Linux
 yeah

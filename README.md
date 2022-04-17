@@ -6,6 +6,8 @@ Unix like software distribution with GNU components
 
 All build scripts are 0BSD Licensed.
 
+Kudos to RMS.
+
 ## Is this GNU/Linux
 yeah
 

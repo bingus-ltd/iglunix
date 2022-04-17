@@ -1,4 +1,4 @@
-# [Iglunix](https://iglunix.xyz/)
+# [Iglunix for servers](https://stallman.org/)
 Unix like software distribution with GNU components
 
 All build scripts are 0BSD Licensed.
